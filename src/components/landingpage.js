@@ -9,10 +9,9 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="../images/benekisprofile.jpg"
+              src="../images/benekisprofile.jpg" 
               alt="avatar"
               className="avatar-img"
-              Transformation effect="cartoonify" 
               />
 
             <div className="banner-text">
